@@ -5,7 +5,7 @@ A recursive descent parser for the SQL language written in C++ language. It also
 
 * Clone the repository by typing the following command in the shell.
 ```shell
-git clone https://github.com/abhiyadav1323/SQL_Compiler.git
+git clone https://github.com/abhiyadav1323/SQL_Parser.git
 ```
 * Use following command to compile the source files.
 ```shell
