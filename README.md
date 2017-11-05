@@ -1,4 +1,4 @@
-## SQL_Compiler
+## SQL Parser
 A recursive descent parser for the SQL language written in C++ language. It also displays the syntax tree corresponding to syntactically correct SQL query.
 
 ## Installing / Getting started
